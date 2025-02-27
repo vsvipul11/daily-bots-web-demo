@@ -1,4 +1,4 @@
-// localhost/api/dialout [POST]
+// localhost/api/dialout
 
 import {
   defaultBotProfile,
